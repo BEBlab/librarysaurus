@@ -126,7 +126,7 @@ if __name__ == "__main__":
     print("**           Hi! this script will do the Plasmidsaurus sequence analysis           **".center(width))
     print("** Let's see if the region of interest is cloned and how's the mutation rate there **".center(width))
     print(stars.center(width))
-    print("(by Mariano Martín - last update July 2024 - with tons of BEB lab input)".center(width))
+    print("(an initial idea of Mariano Martín - last update July 2024 - with tons of BEB lab input)".center(width))
     print('')
     print("Check in the running folder the plots generated!".center(width))
     parser = argparse.ArgumentParser(exit_on_error=False, 
